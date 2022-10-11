@@ -10,7 +10,11 @@ This is an extension pack for essential extension used in BPA SPFx projects
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Find and fix problems in your JavaScript code
 
+- [Markdown AutoTOC](https://marketplace.visualstudio.com/items?itemName=wibblemonkey.markdown-auto-toc) - Adds support for inserting an auto-generated table of contents into the built-in markdown preview using the [[TOC]] syntax.
+
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+- [Task Explorer](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) - Provides a view in either (or both) the SideBar and/or Explorer that displays all supported tasks organized into a treeview, with parent task file nodes, grouped nodes, and project folders (convenient for large multi-root workspaces). Tasks can be opened for view/edit, executed, and stopped, among other things for specific task types, for example NPM file nodes support common npm command(s) (i.e. 'install') via context menu.
 
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - This extension quickly searches your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane.
 

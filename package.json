@@ -2,7 +2,7 @@
   "name": "spfx-pack",
   "displayName": "BPA SPFx Pack",
   "description": "BPA Solutions essentials extensions for SPFx projects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "bpa",
   "icon": "assets/bpa-spfx-pack.png",
   "license": "MIT",
@@ -11,18 +11,20 @@
     "url": "https://github.com/bpa-solutions/bpa-spfx-pack.git"
   },
   "engines": {
-    "vscode": "^1.52.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
     "aaron-bond.better-comments",
-    "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
     "gruntfuggly.todo-tree",
-    "visualstudioexptteam.vscodeintellicode"
+    "spmeesseman.vscode-taskexplorer",
+    "visualstudioexptteam.vscodeintellicode",
+    "wibblemonkey.markdown-auto-toc"
   ],
   "keywords": [
     "SharePoint",
