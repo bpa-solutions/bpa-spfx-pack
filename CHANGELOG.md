@@ -4,6 +4,12 @@ All notable changes to the "bpa-spfx-pack" extension pack will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3] 2022-10-11
+
+### Added
+
+- Added Task Explorer and Markdown AutoTOC extension
+
 ## [0.0.2] 2021-02-03
 
 ### Added
