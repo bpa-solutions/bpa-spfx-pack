@@ -4,6 +4,15 @@ All notable changes to the "bpa-spfx-pack" extension pack will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] 2023-08-09
+
+### Added
+
+- Added Markdown Preview Mermaid Support extension
+- Added Markdown Auto Index extension
+- Added DotENV extension
+- Added Azure Pipelines extension
+
 ## [0.0.3] 2022-10-11
 
 ### Added
