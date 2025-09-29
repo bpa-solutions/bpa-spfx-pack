@@ -16,8 +16,9 @@ A port of DotENV for vscode.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Find and fix problems in your JavaScript code
 
-- [Markdown Auto Index](https://marketplace.visualstudio.com/items?itemName=Leomaradan.markdown-auto-index)
-This extension for Visual Studio Code will parse Markdown files, and update all header indexes. It will not touch headers without index, nor numbered list
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Provides inline coding suggestions as you type.
+
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - A companion extension that provides conversational AI assistance.
 
 - [Markdown AutoTOC](https://marketplace.visualstudio.com/items?itemName=wibblemonkey.markdown-auto-toc) - Adds support for inserting an auto-generated table of contents into the built-in markdown preview using the `[[TOC]]` syntax.
 
