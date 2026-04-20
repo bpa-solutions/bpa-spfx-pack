@@ -2,7 +2,7 @@
   "name": "spfx-pack",
   "displayName": "BPA SPFx Pack",
   "description": "BPA Solutions essentials extensions for SPFx projects",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "bpa",
   "icon": "assets/bpa-spfx-pack.png",
   "license": "MIT",
@@ -22,14 +22,11 @@
     "dbaeumer.vscode-eslint",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
-    "github.copilot",
     "github.copilot-chat",
-    "gruntfuggly.todo-tree",
     "mikestead.dotenv",
     "ms-azure-devops.azure-pipelines",
     "sonarsource.sonarlint-vscode",
     "spmeesseman.vscode-taskexplorer",
-    "visualstudioexptteam.vscodeintellicode",
     "wibblemonkey.markdown-auto-toc"
   ],
   "keywords": [
