@@ -18,6 +18,8 @@ This is an extension pack for essential extension used in BPA SPFx projects
 
 - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - A companion extension that provides conversational AI assistance.
 
+- [Knip](https://marketplace.visualstudio.com/items?itemName=webpro.vscode-knip) - The Knip Editor Extension for VS Code/Open VSX is powered by Knip: Find unused files, dependencies, and exports in your JavaScript/TypeScript projects.
+
 - [Markdown AutoTOC](https://marketplace.visualstudio.com/items?itemName=wibblemonkey.markdown-auto-toc) - Adds support for inserting an auto-generated table of contents into the built-in markdown preview using the `[[TOC]]` syntax.
 
 - [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
@@ -27,4 +29,4 @@ This is an extension pack for essential extension used in BPA SPFx projects
 
 - [SonarQube for IDE](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) - SonarQube for IDE by Sonar is a free, sophisticated static analysis tool that enhances your code quality and security. Analyze your code early—as you write or generate it. Local analysis automatically identifies quality and security issues in real-time, even with AI-generated code.
 
-- [Task Explorer](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) - Provides a view in either (or both) the SideBar and/or Explorer that displays all supported tasks organized into a treeview, with parent task file nodes, grouped nodes, and project folders (convenient for large multi-root workspaces). Tasks can be opened for view/edit, executed, and stopped, among other things for specific task types, for example NPM file nodes support common npm command(s) (i.e. 'install') via context menu.
+- [Vitest](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) - Run, debug, and watch Vitest tests in Visual Studio Code.

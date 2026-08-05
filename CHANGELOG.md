@@ -4,6 +4,29 @@ All notable changes to the "bpa-spfx-pack" extension pack will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.8] 2026-08-05
+
+### Added
+
+- Added Vitest extension
+- Added Knip extension
+
+### Removed
+
+- Removed Task Explorer extension
+
+### Changed
+
+- Updated VS Code engine version to 1.130.0
+
+## [0.0.7] 2026-04-20
+
+### Removed
+
+- Removed GitHub extension
+- Removed Todo Tree extension
+- Removed Visual Studio IntelliCode extension
+
 ## [0.0.6] 2025-09-29
 
 ### Added
@@ -21,6 +44,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added SonarQube for IDE extension
 
+### Changed
+
+- Updated VS Code engine version to 1.103.0
+
 ## [0.0.4] 2023-08-09
 
 ### Added
@@ -35,6 +62,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Added Task Explorer and Markdown AutoTOC extension
+
+### Changed
+
+- Updated VS Code engine version to 1.60.0
 
 ## [0.0.2] 2021-02-03
 
